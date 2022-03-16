@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Mi nombre es Jhon Ever Gallego Atehortua, tengo 21 años de edad. Mis aspiraciones con la materia son aprender sobre ella, fortalecer mis habilidades en la programación y aprender un lenguaje de programación nuevo (Java).
+=======
+Github no permite crear un commit y subir una carpeta vacia.
+>>>>>>> f4b8533ad56f0b3fc033b39bc7b6894a119cf5a4
